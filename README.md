@@ -8,10 +8,11 @@ The data we'll be stored in  csv format.
 
 ### Project Requirements
 
-1️⃣ requests
-2️⃣ requests_html
+1️⃣ os 
+2️⃣ csv
 3️⃣ asyncio
 4️⃣ aiohttp
+5️⃣ requests_html
 
 #### TODO
 1️⃣ Open the books.toscrape.com
